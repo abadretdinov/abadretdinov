@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @abadretdinov
+- 👀 I’m interested in Erlang
+- 🌱 I’m currently learning Elixir
